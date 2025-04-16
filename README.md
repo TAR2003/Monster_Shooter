@@ -1,12 +1,50 @@
-# MONSTER SHOOTER
+# 👾 MONSTER SHOOTER
 
-Monster shooter is a very simple game based on igraphics library of C. This game was built as the 1-1 term project. The instructions to play the game can be found in the instruction section. Just download the folder and run the Monster_Shooter.exe file to play the game. Enjoy.....
+**Monster Shooter** is a very simple 2D game built using the **iGraphics** library in **C language**.  
+This was developed as the **term project for 1st year, 1st semester (1-1)**.
 
-# Source Code
+---
 
-The source code of the game can be found in the Monster_Shooter.cpp file, which uses igraphics library. The specifications of the igraphics library are mentioned below with the official README file for the igraphics library, I decided to add that below for your help.
+## 🎮 How to Play
 
-------------------------
+- Detailed instructions for playing the game can be found in the **Instruction** section within the game.
+- To play the game:
+  1. **Download** the full project folder  
+  2. Run the `Monster_Shooter.exe` file  
+  3. Enjoy the game! 🎉
+
+---
+
+## 🧑‍💻 Source Code
+
+- The entire source code is available in the `Monster_Shooter.cpp` file.
+- The project is developed using the **iGraphics** library, a simple graphics library for C.
+
+---
+
+## 📚 iGraphics Library Info
+
+For your convenience, the **official README** of the iGraphics library is included in this repository.  
+It contains installation instructions, function descriptions, and usage guidelines.
+
+---
+
+## 📦 Folder Contents
+
+- `Monster_Shooter.cpp` – main source code  
+- `Monster_Shooter.exe` – executable file to run the game  
+- Additional assets (images, sounds, etc. if any)
+
+---
+
+## 🎯 Goal
+
+The goal of this game is simple: **shoot the monsters, survive, and have fun!**
+
+---
+
+Let me know if you’d like to add a screenshot, gameplay GIF, or instructions for compiling the C code manually.
+
 
 # IGraphics
 This is the repository for IGraphics library. IGraphics is a thin wrapper on top of OpenGL. This can be used for simple 2D graphics demonstrations, project work for C programming language course
